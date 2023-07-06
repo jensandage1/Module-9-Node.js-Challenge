@@ -1,11 +1,11 @@
 
 # Title:
-    Module-9-Challenge-README-Generator
+    module-9-challenge-README-Generator
 
 ## Description:
-    This creates an easy, straightforward way to create a professional README for your projects. 
-    This solves the problem of trying to remember what goes in a README. 
-    During this project I learned how to dynamically create a README.md file including links. 
+    To be able to quickly and easily create professional README files. 
+    This solves the problem of remembering what to include every time you create a README for a project. 
+    I learned how to dynamically create a README.md which includes links. 
 
 ## Table of Contents:
 * [Installation](#installation)
@@ -14,25 +14,26 @@
 * [License](#license)
 
 ## Installation
-    For this project you need to make sure that you have installed fs as well as inquirer. In your command line type "npm install inquirer@8.2.4" to install the correct inquirer package. fs "file system" is already installed with node.js
+    Make sure that you install inquirer by entering "npm install inquirer@8.2.4" into the command line. fs comes preinstalled with node. 
 
 ## Usage
-    After installing the correct packages, navigate to the directory using the command line, then simply run node index.js and answer the following prompts to the best of your ability. 
+    navigate to the directory using the command line. Then enter "node index.js" and follow the prompts. 
 
 ## Credits
     false
     
 
 ## License
-    ![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)
-    (https://opensource.org/licenses/EPL-1.0)
+    ![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)
+    (http://creativecommons.org/publicdomain/zero/1.0/)
     
 
 ## Tests
 
 ## Questions
   Link to my GitHub profile:
-  (https://github.com/jensandage1)
+  https://github.com/jensandage1
+
   If you have any additional questions, feel free to reach out to me through email. 
   Email: jensandage1@gmail.com
   
